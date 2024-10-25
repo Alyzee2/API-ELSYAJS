@@ -11,7 +11,7 @@
   "author": "Kiana Kaslana (The Tuna Knight)", 
   "license": "MIT", /  
   "dependencies": {
-    "elysia": "^0.1.0",
+    "elysia": "^1.1.23",
     "ejs": "^3.1.8"    
   },
   "keywords": ["elysia", "rest", "api", "tuna", "kiana", "honkai", "cute", "powerful"],   
