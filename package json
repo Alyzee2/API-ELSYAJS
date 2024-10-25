@@ -1,0 +1,30 @@
+{
+  "name": "elysia-rest-api", 
+  "version": "1.0.0",
+  "description": "Simple REST API powered by the might of Tuna and Elysia.js.  Prepare for cuteness overload!", 
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node kaslana/kiana.js",
+    "tuna": "echo \"Tuna is the best!\"", 
+    "kiana": "echo \"I'm Kiana Kaslana, the one and only!\"" 
+  },
+  "author": "Kiana Kaslana (The Tuna Knight)", 
+  "license": "MIT", /  
+  "dependencies": {
+    "elysia": "^0.1.0",
+    "ejs": "^3.1.8"    
+  },
+  "keywords": ["elysia", "rest", "api", "tuna", "kiana", "honkai", "cute", "powerful"],   
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alyzee2/API-ELSYAJS"
+  },
+  "bugs": {
+    "url": "https://github.com/Alyzee2/API-ELSYAJS/issues"      
+  },
+  "homepage": "https://kiana-chan.site/",   
+  "tunaConfig": {  
+    "favoriteTuna": "Spicy Tuna Roll",
+    "tunaPowerLevel": 9999
+  }
+}
