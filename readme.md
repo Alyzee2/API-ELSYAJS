@@ -1,50 +1,37 @@
-```markdown
-# Elysia REST API (Tuna Powered!)
+# Elysia REST API (Powered by Tuna!)
 
-API sederhana yang dibuat dengan Elysia.js dan... TUNA!  Siap-siap untuk dibanjiri dengan *keimutan*!
+A simple REST API built with Elysia.js, and of course... TUNA! Prepare to be overwhelmed by *cuteness overload*!
 
-![Tuna Power](https://qu.ax/VoSm.jpg) 
+![Tuna Power](https://qu.ax/VoSm.jpg)
 
-## Fitur
+## Features
 
-* Didukung oleh Tuna dan Elysia.js.  Kombinasi yang tak terkalahkan!
-* Super cepat, seperti aku berlari mengejar Sirin!
-* Mudah digunakan, bahkan Mei bisa memahaminya (mungkin...).
-* Konfigurasi Tuna yang bisa dikustomisasi.  Atur level *Tuna Power*-mu!
-* Dan masih banyak lagi!
+* Powered by the unbeatable duo of Tuna and Elysia.js.
+* Lightning-fast performance, just like me sprinting after Sirin!
+* Super easy to use—if Mei can understand it, so can you (probably...).
+* Fully customizable Tuna settings. Tune your *Tuna Power* to your liking!
+* And much more!
 
-## Instalasi
+## Installation
 
-1. Klon repositori ini: `git clone https://github.com/YourGithubUsername/elysia-rest-api-tuna-powered` (Ganti dengan URL repositori-mu!)
-2. Install dependensi: `npm install` (Pastikan Node.js dan npm sudah terinstall!)
-3. Jalankan: `npm start`
+1. Clone this repository: 
+    ```bash
+    git clone https://github.com/Alyzee2/API-ELSYAJS.git
+    ```
+2. Install the dependencies: 
+    ```bash
+    npm install
+    ```
+    (Make sure Node.js and npm are installed first!)
+3. Start the server: 
+    ```bash
+    npm start
+    ```
 
-## Penggunaan
+## Usage
 
-Setelah dijalankan, API akan tersedia di `http://localhost:3000`. (Kalau pakai port lain, ganti ya!)
+Once running, the API will be available at `http://localhost:3000`. (If you're using a different port, remember to adjust!)
 
-Untuk melepaskan kekuatan Tuna, jalankan: `npm run tuna`
-
-Untuk mendengar suaraku yang merdu, jalankan: `npm run kiana`
-
-## Konfigurasi
-
-Konfigurasi Tuna ada di `package.json` di bawah `tunaConfig`. Kamu bisa mengubah `favoriteTuna` dan `tunaPowerLevel` sesuai selera.
-
-## Kontribusi
-
-Kontribusi sangat diterima!  Tapi ingat, Tuna adalah prioritas utama!
-
-## Lisensi
-
-MIT License.  Lakukan apa saja yang kamu mau, tapi jangan salahkan aku kalau ada yang salah!
-
-## Kontak
-
-Kiana Kaslana (Tuna Knight) -  (Isi emailmu di sini, kalau mau)
-
-##  Special Thanks
-
-* Tuna.  Tanpa Tuna, dunia ini akan hampa.
-* Elysia.js.  Untuk framework yang *imut* dan *powerful*.
-```
+To unleash the full power of Tuna, run: 
+```bash
+npm run tuna
